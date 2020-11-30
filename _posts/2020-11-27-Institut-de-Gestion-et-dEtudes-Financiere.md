@@ -18,4 +18,4 @@ Depuis plus de 150 ans, l’IGEFI forme les futurs cadres et décideurs en les p
 
 
 
-Nos formations sont accessibles après BAC, BAC +2 et BAC +3 dans les domaines de la comptabilité, la gestion-finance et la paie (vous trouverez ci-joint le flyer de présentation de notre école)
+Nos formations sont accessibles après BAC, BAC +2 et BAC +3 dans les domaines de la comptabilité, la gestion-finance et la paie.

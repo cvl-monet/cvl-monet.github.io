@@ -10,13 +10,9 @@ language:          fr
 
 L’ESTP Paris, école historique et de référence dans l’enseignement supérieur pour les métiers de la construction, est aux côtés des futurs bacheliers de filières STI2D ou générales scientifiques pour les orienter dans leurs poursuites d’études.
 
-Nous organisons une journée portes ouvertes digitale regroupant nos quatre campus et toutes nos formations sur une même plateforme samedi 5 décembre.
+Nous organisons une journée portes ouvertes digitale regroupant nos quatre campus et toutes nos formations sur une même plateforme **samedi 5 décembre**.
 
-Avez-vous la possibilité de transférer à vos élèves le lien ci-dessous pour qu’ils puissent s’y inscrire et bénéficier de nos conseils ?
-
- - Inscription JPO digitale du 5 décembre
-
-Ils peuvent aussi télécharger les brochures de nos trois formations post-bac avec les liens ci-dessous :
+ - Inscription JPO digitale du **5 décembre**
 
  - Bac+2 Conducteur de Travaux ESTP Paris statut étudiant ou apprenti – Campus de Cachan
 

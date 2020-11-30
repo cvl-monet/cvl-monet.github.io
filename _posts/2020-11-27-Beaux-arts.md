@@ -10,7 +10,7 @@ language:          fr
 
 Les Ateliers de Beaux-Arts de la Ville de Paris met en place des stages : d’art, d’architecture/design d’espace et de l’image la semaine :
 
-Du lundi 15 au vendredi 19 février 2020, de 10 heures à 13 heures et de 14 heures à 17 heures.
+Du **lundi 15** au **vendredi 19 février 2020**, de 10 heures à 13 heures et de 14 heures à 17 heures.
 
 
 Ces trois stages ont pour but de faire découvrir aux lycéens les différentes disciplines des Classes Préparatoire proposées par les Ateliers Beaux-Arts :
