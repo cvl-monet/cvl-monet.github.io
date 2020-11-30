@@ -10,7 +10,7 @@ title:     Adresses & Contacts CIO
 **CIO de l'Enseignement Supérieur :**
  - En Sorbonne - Galerie Claude Bernard
  - 1, rue Victor Cousin - 75005 PARIS
- - Tel. : 01 40 46 23 13 (pour RDV) ou 01.40.46.23.24 (réponse téléphonique)
+ - Tel  : 01 40 46 23 13 (pour RDV) ou 01 40 46 23 24 (réponse téléphonique)
 
 **CIO DU 13ème :**
  - 2, Rue Paul Bourget - 75013 PARIS
