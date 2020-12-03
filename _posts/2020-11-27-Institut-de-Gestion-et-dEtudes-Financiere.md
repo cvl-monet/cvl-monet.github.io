@@ -8,7 +8,7 @@ author:            scotthamilton
 language:          fr
 ---
 
-AIGEFI – Institut de Gestion et d’Etudes Financières, vous propose de venir présenter aux étudiants de votre établissement les métiers du chiffre, de la comptabilité et de la gestion.
+L'IGEFI – Institut de Gestion et d’Etudes Financières, vous propose de venir présenter aux étudiants de votre établissement les métiers du chiffre, de la comptabilité et de la gestion.
 
 
 
@@ -19,3 +19,13 @@ Depuis plus de 150 ans, l’IGEFI forme les futurs cadres et décideurs en les p
 
 
 Nos formations sont accessibles après BAC, BAC +2 et BAC +3 dans les domaines de la comptabilité, la gestion-finance et la paie.
+
+<div class="album">
+   <figure>
+      <img src="{{ "/media/img/IGEFI/IGEFI_leafletA5_4P-1.jpg" | absolute_url }}" />
+   </figure>
+   <figure>
+      <img src="{{ "/media/img/IGEFI/IGEFI_leafletA5_4P-2.jpg" | absolute_url }}" />
+   </figure>
+</div>
+
