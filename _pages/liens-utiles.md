@@ -12,7 +12,8 @@ il est important de déjà savoir __ce que vous ne voulez pas faire__ !
 Et vous ne le saurez qu'après avoir fait des recherches sur les différents parcours qui vous intéressent.
 
 Liens Utiles : 
- * HORIZONS21 : [https://horizons21.fr/](https://horizons21.fr/) |
+ * HORIZONS21 : [http://www.horizons21.fr/](http://www.horizons21.fr/) |
+ * secondes-premières : [http://secondes-premieres2020-2021.fr/](http://secondes-premieres2020-2021.fr/) |
  * Quand je passe le BAC : [http://quandjepasselebac.education.fr/](http://quandjepasselebac.education.fr/) avec la banque de sujets [http://quandjepasselebac.education.fr/revisions-la-banque-nationale-de-sujets/](http://quandjepasselebac.education.fr/revisions-la-banque-nationale-de-sujets/) |
  * Terminales 2020/2021 : [http://www.terminales2020-2021.fr/](http://www.terminales2020-2021.fr/) |
  * EDUSCOL : [https://eduscol.education.fr/750/baccalaureat-general](https://eduscol.education.fr/750/baccalaureat-general) |
