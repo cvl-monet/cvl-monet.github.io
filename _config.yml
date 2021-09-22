@@ -7,6 +7,7 @@
 
 # Site settings
 title:            Orientation Monet
+author:           Scott Hamilton
 subtitle:         Ressources d'Orientation du CVL Monet
 description:      This is the jekyllTheme example blog. It only exists to demonstrate how the theme looks and feels.
 keywords:         github jekyll cvl monet paris orientation
