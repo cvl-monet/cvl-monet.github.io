@@ -15,6 +15,9 @@ mkShell {
   nativeBuildInputs = [ zlib ];
   buildInputs = [ gems ];
   shellHook = ''
+    serve() {
+      bundle exec jekyll serve --watch
+    }
     bundle exec jekyll build
   '';
 }
