@@ -15,6 +15,7 @@ GEM
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
     eventmachine (1.2.7)
+    eventmachine (1.2.7-x64-mingw32)
     ffi (1.13.1)
     forwardable-extended (2.6.0)
     hawkins (2.0.5)
@@ -82,10 +83,13 @@ GEM
     thread_safe (0.3.6)
     tzinfo (1.2.8)
       thread_safe (~> 0.1)
+    wdm (0.1.1)
+    webrick (1.7.0)
     zeitwerk (2.4.2)
 
 PLATFORMS
   ruby
+  x64-mingw32
 
 DEPENDENCIES
   hawkins
@@ -95,6 +99,8 @@ DEPENDENCIES
   jekyll-redirect-from
   jekyll-sitemap
   kramdown-parser-gfm
+  wdm (>= 0.1.0)
+  webrick (~> 1.7)
 
 BUNDLED WITH
-   2.1.4
+   2.2.31
