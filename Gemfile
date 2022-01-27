@@ -12,4 +12,4 @@ group :jekyll_plugins do
     gem 'hawkins'                    # jekyll liveserve
 end
 
-gem "webrick", "~> 1.7"
+gem "webrick", "~> 1.7", :platform => [:mswin, :mingw]
