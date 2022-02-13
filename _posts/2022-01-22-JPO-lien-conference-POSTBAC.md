@@ -3,7 +3,7 @@ layout:            post
 title:             "Lien écoute conférence salon POSTBAC 2022"
 date:              2022-01-22 14:41:00 +0100
 tags:              lien POSTBAC
-category:          informations
+category:          Informations
 author:            clovis bourges
 language:          fr
 ---
