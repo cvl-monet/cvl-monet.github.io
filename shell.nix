@@ -13,7 +13,7 @@ in
 with pkgs;
 mkShell {
   nativeBuildInputs = [ zlib ];
-  buildInputs = [ ruby gems ];
+  buildInputs = [ ruby gems poppler_utils ];
   shellHook = ''
     serve() {
       bundle exec jekyll serve --watch
