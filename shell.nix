@@ -1,24 +1,19 @@
-{ pkgs ? import <nixpkgs> {},
-  ruby ? pkgs.ruby_2_7}:
+with (import <nixpkgs> {});
 let
- gems = pkgs.bundlerEnv {
-    name = "cvl-monet";
+  env = bundlerEnv {
+    name = "cvl-monet.github.io-bundler-env";
     inherit ruby;
-    gemfile = ./Gemfile;
+    gemfile  = ./Gemfile;
     lockfile = ./Gemfile.lock;
-    gemset = ./gemset.nix;
-    # groups = [ "default" "production" "development" "test" ];
+    gemset   = ./gemset.nix;
   };
-in
-with pkgs;
-mkShell {
-  nativeBuildInputs = [ zlib ];
-  buildInputs = [ ruby gems poppler_utils ];
+in mkShell {
+  nativeBuildInputs = [ zlib poppler_utils ruby ];
+  buildInputs = [ env ];
   shellHook = ''
     serve() {
       bundle exec jekyll serve --watch
     }
     bundle exec jekyll build
-  '';
+'';
 }
-

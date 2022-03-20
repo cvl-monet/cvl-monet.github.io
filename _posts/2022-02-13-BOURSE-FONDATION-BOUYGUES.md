@@ -15,45 +15,19 @@ La fondation Francis Bouygues s'engage pour l'égalité des chances. Elle aide d
 
 Le soutien de la fondation n'est pas seulement financier. Afin de maintenir un lien permanent avec ses étudiants, la Fondation attribue à chaque boursier, un parrain ou une marraine, qui l'accompagne pendant ses études.
 
-Le dossier de candidature doit impérativement parvenir à la Fondation, par voie postale, entre le 1er et le 31 mai 2022.
+Le dossier de candidature doit impérativement parvenir à la Fondation, par voie postale, entre le **1er et le 31 mai 2022**.
 
 Les informations relatives à la Fondation sont disponibles sur le site internet :
-www.FondationFrancisBouygues.com
+[www.FondationFrancisBouygues.com](www.FondationFrancisBouygues.com)
 
 <div class="album">
-  <img src="{{ "/media/img/BOUYGUES/Affiche-1.jpeg" | absolute_url }}" />
-</div>
-
-<div class="album">
-  <img src="{{ "/media/img/BOUYGUES/Candidature-1.jpeg" | absolute_url }}" />
-</div>
-
-<div class="album">
-  <img src="{{ "/media/img/BOUYGUES/Candidature-2.jpeg" | absolute_url }}" />
-</div>
-
-<div class="album">
-  <img src="{{ "/media/img/BOUYGUES/Candidature-3.jpeg" | absolute_url }}" />
-</div>
-
-<div class="album">
-  <img src="{{ "/media/img/BOUYGUES/Candidature-4.jpeg" | absolute_url }}" />
-</div>
-
-
-
-<div class="album">
-  <img src="{{ "/media/img/BOUYGUES/Depliant-1.jpeg" | absolute_url }}" />
-</div>
-
-<div class="album">
-  <img src="{{ "/media/img/BOUYGUES/Depliant-2.jpeg" | absolute_url }}" />
-</div>
-
-<div class="album">
-  <img src="{{ "/media/img/BOUYGUES/Depliant-3.jpeg" | absolute_url }}" />
-</div>
-
-<div class="album">
-  <img src="{{ "/media/img/BOUYGUES/Depliant-4.jpeg" | absolute_url }}" />
+  <img src="{{ "/media/img/BOUYGUES/Affiche-1.jpg" | absolute_url }}" />
+  <img src="{{ "/media/img/BOUYGUES/Candidature-1.jpg" | absolute_url }}" />
+  <img src="{{ "/media/img/BOUYGUES/Candidature-2.jpg" | absolute_url }}" />
+  <img src="{{ "/media/img/BOUYGUES/Candidature-3.jpg" | absolute_url }}" />
+  <img src="{{ "/media/img/BOUYGUES/Candidature-4.jpg" | absolute_url }}" />
+  <img src="{{ "/media/img/BOUYGUES/Depliant-1.jpg" | absolute_url }}" />
+  <img src="{{ "/media/img/BOUYGUES/Depliant-2.jpg" | absolute_url }}" />
+  <img src="{{ "/media/img/BOUYGUES/Depliant-3.jpg" | absolute_url }}" />
+  <img src="{{ "/media/img/BOUYGUES/Depliant-4.jpg" | absolute_url }}" />
 </div>
