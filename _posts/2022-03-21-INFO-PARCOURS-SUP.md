@@ -9,7 +9,7 @@ language:          fr
 ---
 
 
-<div class="galery">
+<div class="large">
   <img src="{{ "/media/img/PARCOURSUP/info-1.jpg" | absolute_url }}" />
   <img src="{{ "/media/img/PARCOURSUP/info-2.jpg" | absolute_url }}" />
   <img src="{{ "/media/img/PARCOURSUP/info-3.jpg" | absolute_url }}" />
